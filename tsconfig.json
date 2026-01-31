@@ -5,3 +5,20 @@
     { "path": "./tsconfig.node.json" }
   ]
 }
+// {
+//   "compilerOptions": {
+//     "jsx": "react",
+//     "baseUrl": "src",
+//     "paths": {
+//       "@/*": ["*"]
+//     }
+//   }
+// }
+// {
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "paths": {
+//       "@/*": ["src/*"]
+//     }
+//   }
+// }
