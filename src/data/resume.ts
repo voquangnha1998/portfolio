@@ -22,7 +22,7 @@ export const skills = {
     "Angular",
   ],
   database: ["SQL Server", "MySQL", "PostgreSQL"],
-  cloud: ["Azure DevOps", "CI/CD"],
+  cloud: ["Azure DevOps", "CI/CD", "Azure Blob Storage", "Azure Functions", "Docker"],
 }
 
 export const experiences = [
